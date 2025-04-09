@@ -1,0 +1,120 @@
+{
+  "bills": [
+      {
+        "id": 1100,
+        "shopName": "Pizza Hut",
+        "foodImage": "https://i.imghippo.com/files/UpNG4121vao.png",
+        "shopLogo": "https://i.imghippo.com/files/wq1072IP.jpg",
+        "totalAmount": 200,
+        "date": "2025-03-30",
+        "userName": "Rakib",
+        "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+        "isPending": true,
+        "friends": [
+            {
+              "friendId": 1,
+              "name": "Vitalii",
+              "amount": 50,
+              "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+              "isPaid": true
+            },
+            {
+              "friendId": 2,
+              "name": "Alice",
+              "amount": 30,
+              "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+              "isPaid": false
+            },
+          {
+            "friendId": 3,
+            "name": "Aurelien",
+            "amount": 20,
+            "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+            "isPaid": false
+          },
+          {
+            "friendId": 4,
+            "name": "Rakib",
+            "amount": 50,
+            "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+            "isPaid": false
+          },
+          {
+            "friendId": 5,
+            "name": "Emma",
+            "amount": 50,
+            "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+            "isPaid": true
+          }
+        ]
+      },
+      {
+      "id": 1101,
+      "shopName": "Burger King",
+      "foodImage": "https://i.imghippo.com/files/UpNG4121vao.png",
+      "shopLogo": "https://i.imghippo.com/files/wq1072IP.jpg",
+      "totalAmount": 45.75,
+      "date": "2025-03-30",
+      "userName": "Rakib",
+      "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+      "isPending": true,
+      "friends": [
+        {
+          "friendId": 2,
+          "name": "Alice",
+          "amount": 15.25,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": true
+        },
+        {
+          "friendId": 15,
+          "name": "Bob",
+          "amount": 15.25,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": false
+        },
+        {
+          "friendId": 16,
+          "name": "Charlie",
+          "amount": 15.25,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": false
+        }
+      ]
+    },
+    {
+        "id": 1102,
+      "shopName": "Western Grill",
+      "foodImage": "https://i.imghippo.com/files/UpNG4121vao.png",
+      "shopLogo": "https://i.imghippo.com/files/wq1072IP.jpg",
+      "totalAmount": 120.00,
+      "date": "2025-03-28",
+      "userName": "Rakib",
+      "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+      "isPending": false,
+      "friends": [
+        {
+          "friendId": 17,
+          "name": "David",
+          "amount": 40.00,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": true
+        },
+        {
+          "friendId": 18,
+          "name": "Eve",
+          "amount": 40.00,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": true
+        },
+        {
+          "friendId": 19,
+          "name": "Frank",
+          "amount": 40.00,
+          "userImage": "https://i.imghippo.com/files/BZX1663ePA.jpg",
+          "isPaid": true
+        }
+      ]
+    }
+  ]
+}
